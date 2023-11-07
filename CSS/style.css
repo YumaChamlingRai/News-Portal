@@ -1,0 +1,131 @@
+
+        body {
+            width: 85%; /* Adjust the width as needed */
+            margin: 0 auto; /* Center the content horizontally */
+            font-size: 18px;
+          }
+    
+   
+   .header_div{
+        height: 60px;
+    }
+
+    .custom_list{
+        color:#2E3092;
+        width: 50px;
+        height: 40px;
+        margin-right: 5px;
+    }
+
+    .custom_list1{
+        color: #ED1C24;
+        width: 50px;
+        height: 40px;
+        margin-right: 5px;
+    }
+
+    .date_month{
+        margin-left: 250px;
+        font-size: 14px;
+    }
+    .div_mainnews{
+        height: 30px;
+    }
+
+    .div1{
+        background-color: #ED1C24;
+        width: 10%;
+    }
+
+    .p_mainnews{
+        color:white;
+        margin-left: 35px;
+    }
+    .div2{
+        width: 87%;
+        border-top: 1px solid #000; 
+        border-bottom: 1px solid #000;
+        margin-left: 3px;
+        margin-right: 3px;
+    }
+
+    .div3{
+        background-color: #ED1C24;
+        width:3%;
+    }
+
+    .navbar-nav > .nav-item {
+        margin-right: 45px; }
+
+     nav{
+        background-color: #2E3092;
+        height: 45px;
+        width: 85%;
+     }
+
+     .login{
+        width: 15%;
+        background-color:#ED1C24;
+        height: 45px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     }
+
+     .login a {
+        margin-left: 30px;
+
+     }
+
+     .ad-container {
+        height: 430px; 
+      }
+
+   .devanagari-small {
+    font-size: 15px;
+    color:grey;
+    text-align: right;
+  }
+
+  h6{
+    text-decoration: underline;
+    font-size: large;
+  }
+
+.slider-container {
+    width: 100%; /* Set your desired width */
+    height: 300px; /* Set your desired height */
+    overflow: hidden;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.h_custom{
+    font-size: 20px;
+    text-decoration: underline;
+    text-align: left;
+    }
+
+    .custom-image {
+        height: 750px; 
+        object-fit: cover;
+        width: 100%;
+    }
+
+    .position-sticky {
+        background-color: #333; /* Change to your desired background color */
+        padding: 10px 0; /* Adjust the padding as needed */
+        z-index: 1000; /* Ensure the navigation bar appears above other content */
+    }
+
+
+    
